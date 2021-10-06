@@ -1,0 +1,17 @@
+#include<iostream>
+using namespace std;
+class addition{
+private:
+int a,b;
+public:
+void add(int a,int  b){
+cout<<"The addition of numbers is "<<(a+b)<<"\n";
+}};
+int main(){
+int x,y;
+cout<<"Enter two numbers\n";
+cin>>x>>y;
+addition ad;
+ad.add(x,y);
+return 0;
+}
