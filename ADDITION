@@ -13,5 +13,6 @@ cout<<"Enter two numbers\n";
 cin>>x>>y;
 addition ad;
 ad.add(x,y);
+ad.add(x,y);
 return 0;
 }
