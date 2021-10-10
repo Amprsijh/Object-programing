@@ -1,0 +1,10 @@
+#include<iostream>
+#include<math.h>
+using namespace std;
+int main(){
+float f;
+cout<<"Enter number\n";
+cin>>f;
+cout<<sqrt(f):
+return 0;
+}
